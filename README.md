@@ -9,7 +9,7 @@
 
 ## Projects That I Want My Employer to See
 
-- [Dimsumyang Indonesia: Landing Page and Mini CMS](dimsumyang.id)
+- [Dimsumyang Indonesia: Landing Page and Mini CMS](https://www.dimsumyang.id/)
 
 ## Another informations
 
