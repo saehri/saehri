@@ -8,7 +8,6 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 
 ## About me
 
-- 🔭 Currently working on my undergraduate thesis
 - 🌱 Learning mobile development with React Native
 - 🤔 Looking for help with machine learning and software engineering
 
