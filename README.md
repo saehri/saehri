@@ -27,6 +27,7 @@ Web Developer · Mobile developer · ML & software engineering enthusiast
 
 | Project | Live Link | GitHub |
 |---|---|---|
+| "Manage" Landing Page with Astro, Tailwind and GSAP" | [Live](https://fm-manage-landing-pi.vercel.app/) | [GitHub](https://github.com/codesbyree/fm-manage-landing)|
 | Forex Tracker with React + Vite, TypeScript, TradeView LightWeight Chart | [Live](https://myfxchecker.vercel.app/compare?base=idr&quote=usd&tab=1m) | [GitHub](https://github.com/codesbyree/fm-foreign-exchange) |
 | Multi-step Form with React + Vite, Tailwind CSS, Zustand and Motion | [Live](https://fmmultistepform.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-multi-step-form) |
 | IP Location Tracker utilizing Geo IPify and React Leaflet for map visualization | [Live](https://rip-tracker.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-ip-tracker) |
